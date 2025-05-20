@@ -3,11 +3,6 @@
 ## Project Description
 SafeDriveVision is a computer vision project aimed at enhancing road safety. This project leverages deep learning models to detect and alert in real-time the dangerous behaviors of drivers, such as using a phone while driving or showing signs of drowsiness. The primary goal is to help reduce road accidents by alerting drivers to their potentially hazardous actions.
 
-## Medium Article
-
-To read a detailed explanation of the SafeDriveVision project, check out the article on Medium: [SafeDriveVision: Enhancing Road Safety through Computer Vision](https://medium.com/@boubkerbennani44/safedrivevision-enhancing-road-safety-through-computer-vision-d0db5f75ebe9)
-
-
 ## Features
 - **Phone Use Detection**: Utilizes the YOLOv5 model to identify drivers using their phones during driving.
 - **Drowsiness Detection**: Incorporates a custom detector (sharp detector) to monitor signs of driver fatigue.
@@ -31,7 +26,7 @@ To read a detailed explanation of the SafeDriveVision project, check out the art
 
 1. **Clone the repository:** :
 ```
-git clone https://github.com/Boubker10/SafeDriveVision
+git clone https://github.com/MagManic/SafetyDrive-Project
 ```
 3. **Install the necessary dependencies:** :
  ```
@@ -47,7 +42,7 @@ git clone https://github.com/Boubker10/SafeDriveVision
 python SafeDriveVision.py --onnx
 ```
 
-https://github.com/Boubker10/SafeDriveVision/assets/116897761/e8325afc-63f3-4010-851d-f391d25b86ac
+https://github.com/MagManic/SafetyDrive-Project/assets/116897761/e8325afc-63f3-4010-851d-f391d25b86ac
 
 
 
@@ -56,7 +51,7 @@ https://github.com/Boubker10/SafeDriveVision/assets/116897761/e8325afc-63f3-4010
 python SafeDriveVision.py --onnx --opt 3d
 ```
 
-https://github.com/Boubker10/SafeDriveVision/assets/116897761/63037957-e444-4b53-aa55-416eb4d1c29b
+https://github.com/MagManic/SafetyDrive-Project/assets/116897761/63037957-e444-4b53-aa55-416eb4d1c29b
 
 
 3. **2d V0**
@@ -65,7 +60,7 @@ python SafeDriveVisionV0.py
 
 ```
 
-https://github.com/Boubker10/SafeDriveVision/assets/116897761/da0ef059-df9f-4ceb-9683-73e7fd228400
+https://github.com/MagManic/SafetyDrive-Project/assets/116897761/da0ef059-df9f-4ceb-9683-73e7fd228400
 
 
 4. **Google Colab**
@@ -131,46 +126,9 @@ FaceBoxesNet is a neural network architecture designed for object detection. Bel
 ## Project Resource
 The project resource can be found at [3DDFA](https://github.com/cleardusk/3DDFA).
 
+##Contact
+Magesh Manickam M
 
+Email: magesh22m@gmail.com
 
-
-## Contributions
-
-We welcome contributions to the SafeDriveVision project! If you have suggestions for improvements or notice any issues, here's how you can contribute:
-
-1. **Fork the Repository**: Start by forking the repository. This creates a copy of the project in your own GitHub account.
-
-2. **Clone Your Fork**: Clone the forked repository to your local machine. This allows you to work on the files locally.
-   ```bash
-   git clone https://github.com/Boubker10/SafeDriveVision.git
-   cd SafeDriveVision
-3. **Create your Feature Branch** (git checkout -b feature/AmazingFeature)
-
-4. **Commit your Changes**
-5. ```git commit -m 'Add some AmazingFeature'```
-   
-6. **Push to the Branch**
- ``` git push origin feature/AmazingFeature ```
-
-7. **Open a Pull Request**
-
-
-## Authors
-
-- **Boubker**  - [Boubker10](https://github.com/Boubker10)
-
-## Contact 
-Boubker BENNANI
-
-LinkedIn: @boubkerbennani
-
-Email: boubkerbennani44@gmail.com
-
-Project Link: https://github.com/Boubker10/SafeDriveVision
-
-
-## Views
-![Total views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Boubker10/SafeDriveVision)
-
-
-
+Project Link: https://github.com/MagManic/SafetyDrive-Project
